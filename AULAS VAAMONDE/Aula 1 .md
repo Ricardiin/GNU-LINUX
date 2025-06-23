@@ -24,15 +24,15 @@ apertar w e enter pra saber do sistema/pessoas.
 cuidado ao digitar os comandos.
 
 --
-Tela rosa com daemons, aperta tab e ok [ENTER] 
+    Tela rosa com daemons, aperta tab e ok [ENTER] 
 ..
-sudo vim /etc/hostname
+    sudo vim /etc/hostname
 clicar insert
 do lado do nome wsrichard
 wsrichard.richard.intra
 !CUIDADO.. pra sair esc.. (shift) :x [ENTER].
 
-sudo vim /etc/hosts
+    sudo vim /etc/hosts
 coluna um 1p
 segundo usuarios
 3 coluna nao apareceu.
@@ -52,7 +52,7 @@ backup .old = um estado anterior do q foi alterado..
 ESC :set number ENTER
 
 ---------------------
-depois editar o arquivo.. INSERT 
+    depois editar o arquivo.. INSERT 
 
 dhcp4:false (ENTER)
 (backspace) link-local:[]
