@@ -1,5 +1,6 @@
 ws= Significa Web server
 rayka= 10.26.44.230
 richard= 10.26.44.231
+user:wsrichard
 
 criando windows server 
