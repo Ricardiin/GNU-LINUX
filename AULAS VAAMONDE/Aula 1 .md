@@ -33,9 +33,9 @@ wsrichard.richard.intra
 !CUIDADO.. pra sair esc.. (shift) :x [ENTER].
 
     sudo vim /etc/hosts
-coluna um 1p
-segundo usuarios
-3 coluna nao apareceu.
+1ªcoluna um 1p
+2ªcoluna usuarios
+3ªcoluna nao apareceu (locais).
 ____________________
 
 127.0.0.1      localhost.richard.intra   localhost
