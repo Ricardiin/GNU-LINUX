@@ -22,3 +22,6 @@ apertar w e enter pra saber do sistema/pessoas.
 
 -----------------
 cuidado ao digitar os comandos.
+
+--
+Tela rosa com daemons, aperta tab e ok [ENTER] 
