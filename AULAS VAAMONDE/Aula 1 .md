@@ -33,7 +33,7 @@ wsrichard.richard.intra
 !CUIDADO.. pra sair esc.. (shift) :x [ENTER].
 
     sudo vim /etc/hosts
-1ªcoluna um 1p
+1ªcoluna um ip
 2ªcoluna usuarios
 3ªcoluna nao apareceu (locais).
 ____________________
