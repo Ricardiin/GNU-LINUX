@@ -19,3 +19,6 @@ senac@10.26.44.29 e entrar dar YES na notificação e fim.
 senac@10.26.44.29 vai pedir a senha: 123@senac
 
 apertar w e enter pra saber do sistema/pessoas.
+
+-----------------
+cuidado ao digitar os comandos.
