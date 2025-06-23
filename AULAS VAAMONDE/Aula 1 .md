@@ -58,6 +58,6 @@ dhcp4:false (ENTER) <br>
 (backspace) link-local:[] <br>
 (backspace) addresses: [10.26.44.231/24] <br>
 ........
-##!CUIDADO DEIXAR TUDO NA MESMA LINHA.
+##CUIDADO DEIXAR TUDO NA MESMA LINHA.
 digite todos os comando, cuidado com as linhas e o TAB .. 
 --------------------
