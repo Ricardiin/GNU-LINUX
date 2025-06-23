@@ -34,13 +34,13 @@ wsrichard.richard.intra
 
     sudo vim /etc/hosts
 1ªcoluna um ip <br>
-2ªcoluna usuarios
+2ªcoluna usuarios <br>
 3ªcoluna nao apareceu (locais).
 ____________________
 
-127.0.0.1      localhost.richard.intra   localhost
-127.0.1.1      wsrichard.richard.intra   wsrichard
-10.26.44.231  wsrichard.richard.intra   wsrichard
+127.0.0.1      localhost.richard.intra   localhost <br>
+127.0.1.1      wsrichard.richard.intra   wsrichard <br>
+10.26.44.231  wsrichard.richard.intra   wsrichard <br>
 
 -------------
 sudo lspci -v | grep -i ethernet
@@ -54,10 +54,10 @@ ESC :set number ENTER
 ---------------------
     depois editar o arquivo.. INSERT 
 
-dhcp4:false (ENTER)
-(backspace) link-local:[]
-(backspace) addresses: [10.26.44.231/24]
+dhcp4:false (ENTER) <br>
+(backspace) link-local:[] <br>
+(backspace) addresses: [10.26.44.231/24] <br>
 ........
-!CUIDADO DEIXAR TUDO NA MESMA LINHA.
+##!CUIDADO DEIXAR TUDO NA MESMA LINHA.
 digite todos os comando, cuidado com as linhas e o TAB .. 
 --------------------
