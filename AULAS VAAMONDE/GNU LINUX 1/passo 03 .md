@@ -41,3 +41,6 @@ passo 3 4 5 6 so copiar e colar preguiça de copiar
     Passo 7 caso der erro configurar manual.
     <br>
 
+Ao desligar no comando lembres-se de ligar o LINUX no virtual box.*
+ <br> 
+
