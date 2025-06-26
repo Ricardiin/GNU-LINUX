@@ -61,3 +61,23 @@ dhcp4:false (ENTER) <br>
 ##CUIDADO DEIXAR TUDO NA MESMA LINHA.
 digite todos os comando, cuidado com as linhas e o TAB .. 
 --------------------
+
+# This file is generated from information provided by the datasource.  Changes
+# to it will not persist across an instance reboot.  To disable cloud-init's
+# network configuration capabilities, write a file
+# /etc/cloud/cloud.cfg.d/99-disable-network-config.cfg with the following:
+# network: {config: disabled}
+network:
+    ethernets:
+        enp0s3:
+            dhcp4: false
+            link-local: []
+            addresses: [10.26.44.231/24]
+            routes:
+              - to: default
+                via: 10.26.44.1
+            nameservers:
+              addresses: [8.8.8.8, 8.8.4.4]
+              search: [richard.intra]
+    version: 2
+
