@@ -1,0 +1,58 @@
+1ºexplorador de arquivos>compartlhar com>pessoas especificas...>TODOS>(adicionar = LEITURA/GRAVAÇÃO/)
+
+! Como acessar \\svrricardin\publica
+
+AS SENHAS :123@senac
+OU senac@123
+_________
+
+ferramentas>usuarios>nova alguma coisa:
+
+USERS
+
+Batman
+Coringa
+DC - GRUPO
+Homem de fero
+Marvel - GRUPO
+Thanos.
+
+criar noov usuarios>Criar novo grupo> NOME DO GRUPO>ESCOPO do grupo:GLOBAL, tipo de grupo:Segurança
+
+global:arvore inteira
+universal:Funciona na floresta toda
+
+para alterar de Global para local, vc tem que com
+
+tipo:
+segurança:serve pra dar segurança
+_____________________________
+
+propriedades do usuario>membro de...//
+
+forma 1º
+
+entra no usuario propriedades>membros>adicionar
+bat;cor  clicar em verificar nomes ele vai buscar os usuarios.
+
+forma2º
+entrar no usuario e membro de ...
+adicionar o grupo.
+
+forma 3º
+botao direito adicionar grupo encima do usuario.
+______________________________________________
+
+explorar de dados>disco rigido H> Cria uma pasta>DC/MARVEL/HOSPICIO> Botao direito>propriedades>COMPARTILHAMENTO>COMPARTILHAMENTO AVANÇADO>marcar compartilhar a pasta>comentarios "pasta da DC">Permissoes>REMOVER O TODOS>E Adicionar o nome do grupo- no caso DC/ Leitura e gração (permitir)
+______________________________________________
+Mapear windows SERVER:
+
+LOCAL= Windows/sysvol/sysvol/ricardinintra/scripts/
+
+_________________________________________
+
+COMANDA *
+net use H:\\svrricardin\publica
+net use u: svrricardin\
+
+.cmd ou bat
